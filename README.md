@@ -8,17 +8,16 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👩‍💻  About Me:
 
 ###
-
 <br clear="both">
 
 <p align="left">Currently pursuing my Bachelor of Computer Applications (BCA), with a strong interest in web and software development. I enjoy learning new technologies and building real-world projects to improve my skills.<br><br>--Skills:<br>● Frontend: HTML, CSS, JavaScript, Responsive Web Design.<br>● Backend: Basic Node.js, MongoDB, API Integration.<br>● Tools & Technologies: Git, GitHub, VS Code.<br>● Other: Problem Solving, Basic AI API Usage.</p>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+# 💻 Tech Stack:
 
 ###
 
@@ -48,7 +47,7 @@
 
 ###
 
-<h3 align="left">🌐 Let's Connect:</h3>
+## 🌐 Let's Connect:
 
 ###
 
